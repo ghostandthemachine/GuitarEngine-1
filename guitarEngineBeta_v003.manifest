@@ -1,7 +1,7 @@
 {
 	"autodeskProduct":	"Fusion360",
 	"type":	"addin",
-	"id":	"37387855-8e8e-4d83-a0e7-20c09b1aa937",
+	"id":	"37387855-8e8e-4d83-a0e7-20c09b1aa938",
 	"author":	"Brad Anderson",
 	"description":	{
 		"":	"Creates a fretboard component."
